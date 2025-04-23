@@ -121,3 +121,4 @@ st.title("🏋️ Dual Arm Pose Counter with Realtime Skeleton")
 
 # Start webcam
 webrtc_streamer(key="movenet", video_transformer_factory=VideoProcessor)
+
