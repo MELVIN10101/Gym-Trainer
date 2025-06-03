@@ -34,6 +34,6 @@ cd Gym-Trainer
 ```
 ### 2. Run the Application
 ```bash
-python main.py
+streamlit run main.py
 ```
 
